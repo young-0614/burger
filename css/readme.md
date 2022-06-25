@@ -1,3 +1,3 @@
 # buger
 
-설명 설명 설명
+### preview page : https://young-0614.github.io/burger/
